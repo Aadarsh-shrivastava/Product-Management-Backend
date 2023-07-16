@@ -13,7 +13,7 @@
 	<groupId>com.exittest</groupId>
 	<artifactId>productsearch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>productsearch</name>
 	<description>Exit test project</description>
 	<properties>
